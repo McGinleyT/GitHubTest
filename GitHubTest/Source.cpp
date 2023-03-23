@@ -7,5 +7,6 @@
 int main()
 {
 	std::cout << "Hello, World!\n";
+	system("Pause");//edit
 	return 0;
 }
